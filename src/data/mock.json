@@ -1,0 +1,51 @@
+{
+  "venues": [
+    {
+      "id": "1",
+      "name": "The Obsidian Room",
+      "type": "Nightclub",
+      "distance": "0.2 mi",
+      "activeUsers": 120
+    },
+    {
+      "id": "2",
+      "name": "Velvet Underground",
+      "type": "Lounge",
+      "distance": "0.5 mi",
+      "activeUsers": 45
+    },
+    {
+      "id": "3",
+      "name": "Syntax Error",
+      "type": "Barcade",
+      "distance": "1.1 mi",
+      "activeUsers": 12
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "text": "Hey, are you going to the event tonight?",
+      "sender": "them",
+      "timestamp": "10:24 AM"
+    },
+    {
+      "id": 2,
+      "text": "Thinking about it. Is it crowded?",
+      "sender": "me",
+      "timestamp": "10:26 AM"
+    },
+    {
+      "id": 3,
+      "text": "Not yet, but it usually picks up around midnight.",
+      "sender": "them",
+      "timestamp": "10:28 AM"
+    },
+    {
+      "id": 4,
+      "text": "Cool, might drop by later.",
+      "sender": "me",
+      "timestamp": "10:30 AM"
+    }
+  ]
+}
