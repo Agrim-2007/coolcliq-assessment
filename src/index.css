@@ -17,7 +17,6 @@
     padding: 0;
   }
 }
-
 @layer utilities {
   .bg-gradient-accent {
     background-image: linear-gradient(to right, var(--color-primary), var(--color-secondary));
